@@ -6,7 +6,7 @@ This project simulates real-world SOC workflows, detection engineering basics, a
 
 ---
 
-![Header](.\images\Screenshot 2025-11-18 125344.png)
+<img src =".\images\Screenshot 2025-11-18 125344.png">
 
 ## 📌 Project Overview
 This lab includes:
